@@ -1,0 +1,22 @@
+{
+  "name": "node-hello",
+  "version": "1.0.0",
+  "description": "A simple Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building the application...'"
+   
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnpapa/node-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnpapa/node-hello/issues"
+  },
+  "homepage": "https://github.com/johnpapa/node-hello#readme"
+}
