@@ -26,5 +26,5 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: your-dockerhub-username/node-hello:latest
+          tags: shrikantborude/node-hello:latest
 
